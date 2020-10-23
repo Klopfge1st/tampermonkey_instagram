@@ -1,1 +1,1 @@
-# tampermonkey_instagram
+Simple tampermonkey script that hides user suggestions on instagram
